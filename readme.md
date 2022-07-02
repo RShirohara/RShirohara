@@ -1,8 +1,6 @@
 # Ray Shirohara
 
-Ray Shirohara (城原零)
-
-- [NovelConverter](https://github.com/RShirohara/NovelConverter) author.
+Ray Shirohara (城原 零)
 
 ## Contacts
 
