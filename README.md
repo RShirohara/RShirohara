@@ -5,7 +5,7 @@ Ray Shirohara (城原 零)
 ## Contacts
 
 - Twitter: [`@RShirohara`](https://twitter.com/RShirohara)
-- ActivityPub (Wildebeest): [`@RShirohara@ap.third-branches.net`](https://ap.third-branches.net/@RShirohara)
+- ActivityPub (GoToSocial): [`@RShirohara@ap.third-branches.net`](https://ap.third-branches.net/@RShirohara)
 - Discord: `R.Shirohara#7863`
 - Pixiv: <https://www.pixiv.net/users/17985131>
 
