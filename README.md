@@ -6,7 +6,7 @@ Ray Shirohara (城原 零)
 
 - Twitter: [`@RShirohara`](https://twitter.com/RShirohara)
 - ActivityPub (GoToSocial): [`@RShirohara@ap.third-branches.net`](https://ap.third-branches.net/@RShirohara)
-- Discord: `R.Shirohara#7863`
+- Discord: `rshirohara`
 - Pixiv: <https://www.pixiv.net/users/17985131>
 
 ## Signature
