@@ -2,14 +2,15 @@
 
 Ray Shirohara (城原 零)
 
-## Contacts
+## Claims
 
-- Twitter: [`@RShirohara`](https://twitter.com/RShirohara)
-- ActivityPub (GoToSocial): [`@RShirohara@ap.third-branches.net`](https://ap.third-branches.net/@RShirohara)
-- Discord: `rshirohara`
-- Pixiv: <https://www.pixiv.net/users/17985131>
+- Verified (Keyoxide): [`RShirohara@proton.me`](https://keyoxide.org/RShirohara%40proton.me)
+  - Twitter: [`@RShirohara`](https://twitter.com/RShirohara)
+  - ActivityPub (GoToSocial): [`@rshirohara@ap.third-branches.net`](https://ap.third-branches.net/@RShirohara)
+- Unverified
+  - Discord: `rshirohara`
+  - Pixiv: [城原 零](https://www.pixiv.net/users/17985131)
 
-## Signature
+## OpenPGP key transition statement
 
-- PGP Key: <https://keys.openpgp.org/vks/v1/by-keyid/D81D31BD3A8AED0E>
-  - FingerPrint: `A87B 48FC 23C4 1FFE DC20  5D53 D81D 31BD 3A8A ED0E`
+- [2024-01-06](https://gist.github.com/RShirohara/4829992b788ebad2db4da894f8b5cc09>)
