@@ -13,4 +13,4 @@ Ray Shirohara (城原 零)
 
 ## OpenPGP key transition statement
 
-- [2024-01-06](https://gist.github.com/RShirohara/4829992b788ebad2db4da894f8b5cc09>)
+- 2024-01-06: Cannot create because missing old signing key.
