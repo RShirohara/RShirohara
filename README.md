@@ -8,6 +8,7 @@ Ray Shirohara (城原 零)
   - Twitter: [`@RShirohara`](https://twitter.com/RShirohara)
   - ActivityPub (GoToSocial): [`@rshirohara@ap.third-branches.net`](https://ap.third-branches.net/@RShirohara)
 - Unverified
+  - Bluesky: [`@rshirohara.ap.third-branches.net.ap.brid.gy`](https://bsky.app/profile/rshirohara.ap.third-branches.net.ap.brid.gy)
   - Discord: `rshirohara`
   - Pixiv: [城原 零](https://www.pixiv.net/users/17985131)
 
